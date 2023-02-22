@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-azuretools.vscode-azurefunctions",
+    "ms-vscode-remote.remote-containers",
+    "msjsdiag.cordova-tools",
+    "ionide.ionide-fsharp",
+    "nilssoderman.batch-runner",
+    "broadcommfd.debugger-for-mainframe",
+    "ms-vsliveshare.vsliveshare"
+]
+}
